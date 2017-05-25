@@ -34,7 +34,11 @@ Before continuing with the implementation, please take a look at the following [
 
 ###Visualizing K-Means Clustering ###
 
-Highchart Implementation Script: The results (centroids and clusters) are stored in different variables to add it to the highchart configuration. We are using Highcharts API please check the references. [4]![all.png](https://bitbucket.org/repo/LorRB56/images/3371934390-all.png)
+Highchart Implementation Script: The results (centroids and clusters) are stored in different variables to add it to the highchart configuration. We are using Highcharts API please check the references. [4]
+
+This is an example of the plotting.
+
+![all.png](https://bitbucket.org/repo/LorRB56/images/3371934390-all.png)
 
 
 
