@@ -50,7 +50,7 @@ For further references of implementation please review the attached PDF file in 
 
 ### Contribution guidelines ###
 
-If you have any question regarding this implementation, comments or would like to improve the code, please let me know.
+If you have any question regarding this implementation, correct english grammar mistakes, comments or would like to improve the code, please let me know.
 
 ### Who do I talk to? ###
 
